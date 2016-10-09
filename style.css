@@ -1,0 +1,13 @@
+<body>{
+	padding: 15px 15px;
+}
+
+#menu {
+	text-align: center;
+	text-shadow:0 0 15px red;
+}
+
+#craftItem, #tableItems, #craftTable{
+	text-align: center;
+	padding: 40px;
+}
